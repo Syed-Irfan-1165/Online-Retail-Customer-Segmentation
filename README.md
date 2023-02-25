@@ -31,7 +31,17 @@ This is a transnational data set which contains all the transactions occurring b
 4. Run the script by executing python segmentation.py in your terminal
 
 **Customization**
+1. Feature selection: In addition to the provided features, businesses may want to consider other features such as customer age, gender, or purchase frequency.
 
+2. Segmentation method: The project uses K-means clustering and hierarchical clustering to segment customers. However, businesses may want to consider other segmentation methods such as  principal component analysis (PCA), or decision trees.
+
+3. Number of segments: The project uses the elbow method to determine the optimal number of segments. However, businesses may want to consider other methods such as silhouette analysis or domain knowledge to determine the number of segments.
+
+4. Marketing strategy: Once customers are segmented, businesses can create tailored marketing campaigns for each group. The project provides a basic analysis of each segment's characteristics, but businesses may want to further customize their marketing strategy based on their products, services, and goals.
 
 **Conclusion**
+
+Customer segmentation is a powerful tool for businesses to better understand their target audience and create tailored marketing campaigns. By segmenting customers based on purchase history and demographic information, businesses can identify patterns, preferences, and behaviors that can inform their marketing strategy. This project provides a basic framework for customer segmentation using K-means clustering and the elbow method. However, businesses can customize the segmentation process based on their specific needs and goals.
+
+
 

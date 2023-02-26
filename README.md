@@ -1,6 +1,7 @@
 # Online Retail Customer Segmentation
 
-![Wavy_Tech-15_Single-04](https://user-images.githubusercontent.com/123230589/216259370-2d7fbc35-9c73-4e1e-8444-13909cab31f5.jpg)
+![221419257-a2513b5d-0810-43e3-9bf2-273e88316637](https://user-images.githubusercontent.com/123230589/221420898-d6179d11-a3d8-4228-b296-bbadf583d43c.png)
+
 
 **Introduction**\
 This project provides a framework for online retail businesses to segment their customer base based on purchase history and demographic information. By dividing customers into different groups, businesses can better understand their target audience and create tailored marketing campaigns that resonate with each group.
